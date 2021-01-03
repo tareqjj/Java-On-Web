@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="User Info Assignment">
+        <property name="context-root" value="User_Info_Assignment"/>
+        <property name="java-output-path" value="/User Info Assignment/build/classes"/>
+    </wb-module>
+</project-modules>
